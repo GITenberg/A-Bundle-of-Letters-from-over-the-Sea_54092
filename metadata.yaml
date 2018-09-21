@@ -1,11 +1,16 @@
 _repo: A-Bundle-of-Letters-from-over-the-Sea_54092
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54092-h/images/cover_back.jpg
 creator:
   author:
     agent_name: Robinson, Louise B.
     gutenberg_agent_id: '47705'
     url: http://www.gutenberg.org/2009/agents/47705
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54092#A-Bundle-of-Letters-from-over-the-Sea
 gutenberg_issued: '2017-02-02'
 gutenberg_type: Text
 identifiers:
