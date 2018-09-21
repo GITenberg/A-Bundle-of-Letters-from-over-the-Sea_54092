@@ -1,0 +1,32 @@
+_repo: A-Bundle-of-Letters-from-over-the-Sea_54092
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Robinson, Louise B.
+    gutenberg_agent_id: '47705'
+    url: http://www.gutenberg.org/2009/agents/47705
+description: ''
+gutenberg_issued: '2017-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54092'
+  lccn: '03012605'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Europe -- Description and travel'
+- GITenberg
+tableOfContents: 'Letter I: I am off. On the sea -- Letter II: Liverpool. Chester.
+  Rugby. Leamington. Stratford-on-Avon. Kenilworth. Warwick -- Letter III: London
+  -- Letter IV: Paris -- Letter V: Ambrieau. Geneva -- Letter VI: Chamouni. Mer de
+  Glace. Tête Noire -- Letter VII: Martigny. Chillon. Berne. Interlaken -- Letter
+  VIII: Lucerne. Altorf. The Rigi. Zurich. Schaffhausen -- Letter IX: Strassburg.
+  Baden Baden. Willbad. Carlsruhe. Heidelberg -- Letter X: Mayence. Wiesbaden. The
+  Rhine -- Letter XI: Cologne -- Letter XII: Utrecht. Amsterdam -- Letter XIII: The
+  Hague. Rotterdam. Brussels -- Letter XIV: Antwerp -- Letter XV: On shipboard. New
+  York. Boston.'
+title: A Bundle of Letters from over the Sea
+url: http://www.gutenberg.org/ebooks/54092
